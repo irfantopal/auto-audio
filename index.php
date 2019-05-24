@@ -41,16 +41,8 @@
                     <source src=".$filedir." type='audio/mpeg'>
                         Your browser is not supporting.
                 </audio></td>\n";
-                    //echo "<td><button type='button' data-toggle='collapse' data-target='#$urlname' data-parent='#accordion'>Hear</button></td>\n";
                     echo "</tr>\n";
 
-                    /*echo "<div id='$urlname' class='collapse'>
-                        <audio controls>
-                            <source src=".$filedir." type='audio/mpeg'>
-                                Your browser is not supporting.
-                        </audio>
-                    </div>\n";
-*/
                 }
             ?>
         </table>
