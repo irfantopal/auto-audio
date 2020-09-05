@@ -1,2 +1,3 @@
 # auto-audio
-It's getting all sound files (mp3) from audios folder and printing it to site with name. All is automatic.
+If you have man audios which you want to be playable on one page then this is right for you. 
+It automatically graps all audios from one folder then prints it to the page in which you can play them.
